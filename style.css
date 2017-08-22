@@ -1,0 +1,90 @@
+	* {text-decoration: none;
+	    margin: 0;
+	    padding: 0;}
+	#login{
+		margin: 50px 0;
+	}
+	.head {
+		margin: 50px 0;
+		overflow: hidden;
+		}
+	#doctor{
+		margin: 30px 0;
+	}
+	.content {
+		width: 900px;
+		margin: 0 auto;
+	}
+	.content > a{
+		margin: 20px 10px;
+	}
+	.content > a > input{
+		text-align: center;
+		width: 120px;
+		height: 30px;
+		display: inline;
+	}
+	.content > div{
+		margin: 20px 10px;
+	}
+	.inline{
+		display: inline;
+	}
+	#text1{
+		display: none;
+	}
+	#text2{
+		display: none;
+	}
+	#text3{
+		display: none;
+	}
+	#text4{
+		display: none;
+	}
+	#text5{
+		display: none;
+	}
+	.button{
+		cursor: pointer;
+	}
+	#flash {
+		text-align: center;
+		text-size : 50px;
+		
+	}
+	h1 {	text-align: center;
+	}
+	a {	display: inline-block;
+		text-align: center;
+		}
+	.board {
+		width:600px;
+		padding: 0 150px;
+	}
+	table{
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+	
+	fieldset {
+		background-color: #ffffcc;
+		margin-left: auto;
+		margin-right: auto;
+		width: 21em; }
+	form {
+		font-family: "Helvetica", sans-serif;    }
+	input {
+		margin-bottom: 0.5em;   }
+	input[type="submit"] {
+		font-weight: bold;
+		margin-left: 10em;   }
+	label.heading {
+		float: left;
+		margin-right: 1em;
+		text-align: right;
+		width: 7em;    }
+	legend {
+		background-color: white;
+		border: 1px solid black;
+		padding: 0.25em;    }
